@@ -1,0 +1,127 @@
+Godot Engine v3.2.3.stable.official - https://godotengine.org
+OpenGL ES 3.0 Renderer: GeForce 840M/PCIe/SSE2
+ 
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+**ERROR**: Error calling method from signal 'area_entered': 'KinematicBody2D(Player.gd)::_on_Area2D_area_entered': Method not found..
+   At: core/object.cpp:1260:emit_signal() - Error calling method from signal 'area_entered': 'KinematicBody2D(Player.gd)::_on_Area2D_area_entered': Method not found..
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+**ERROR**: Error calling method from signal 'area_entered': 'KinematicBody2D(Player.gd)::_on_Area2D_area_entered': Method not found..
+   At: core/object.cpp:1260:emit_signal() - Error calling method from signal 'area_entered': 'KinematicBody2D(Player.gd)::_on_Area2D_area_entered': Method not found..
+is wall jumping
+speed is:-2000
+**ERROR**: Error calling method from signal 'area_entered': 'KinematicBody2D(Player.gd)::_on_Area2D_area_entered': Method not found..
+   At: core/object.cpp:1260:emit_signal() - Error calling method from signal 'area_entered': 'KinematicBody2D(Player.gd)::_on_Area2D_area_entered': Method not found..
+**ERROR**: Can't change this state while flushing queries. Use call_deferred() or set_deferred() to change monitoring state instead.
+   At: servers/physics_2d/physics_2d_server_sw.cpp:730:body_set_shape_disabled() - Condition "body->get_space() && flushing_queries" is true.
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+**ERROR**: Error calling method from signal 'area_entered': 'KinematicBody2D(Player.gd)::_on_Area2D_area_entered': Method not found..
+   At: core/object.cpp:1260:emit_signal() - Error calling method from signal 'area_entered': 'KinematicBody2D(Player.gd)::_on_Area2D_area_entered': Method not found..
+**ERROR**: Can't change this state while flushing queries. Use call_deferred() or set_deferred() to change monitoring state instead.
+   At: servers/physics_2d/physics_2d_server_sw.cpp:730:body_set_shape_disabled() - Condition "body->get_space() && flushing_queries" is true.
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+**ERROR**: Error calling method from signal 'area_entered': 'KinematicBody2D(Player.gd)::_on_Area2D_area_entered': Method not found..
+   At: core/object.cpp:1260:emit_signal() - Error calling method from signal 'area_entered': 'KinematicBody2D(Player.gd)::_on_Area2D_area_entered': Method not found..
+**ERROR**: Error calling method from signal 'area_entered': 'KinematicBody2D(Player.gd)::_on_Area2D_area_entered': Method not found..
+   At: core/object.cpp:1260:emit_signal() - Error calling method from signal 'area_entered': 'KinematicBody2D(Player.gd)::_on_Area2D_area_entered': Method not found..
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+**ERROR**: Error calling method from signal 'area_entered': 'KinematicBody2D(Player.gd)::_on_Area2D_area_entered': Method not found..
+   At: core/object.cpp:1260:emit_signal() - Error calling method from signal 'area_entered': 'KinematicBody2D(Player.gd)::_on_Area2D_area_entered': Method not found..
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+**ERROR**: Error calling method from signal 'area_entered': 'KinematicBody2D(Player.gd)::_on_Area2D_area_entered': Method not found..
+   At: core/object.cpp:1260:emit_signal() - Error calling method from signal 'area_entered': 'KinematicBody2D(Player.gd)::_on_Area2D_area_entered': Method not found..
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
+is wall jumping
+speed is:-2000
